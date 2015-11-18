@@ -30,13 +30,13 @@
   },
   "dependencies": {
     "s3-sync": "git+ssh://git@github.com:hguillermo/s3-sync.git",
-    "rimraf": "~2.2.2",
-    "through": "~2.3.4",
-    "async": "~0.2.9"
+    "rimraf": "2.2.2",
+    "through": "2.3.4",
+    "async": "0.2.9"
   },
   "devDependencies": {},
   "peerDependencies": {
-    "grunt": "~0.4.1"
+    "grunt": "0.4.1"
   },
   "keywords": [
     "gruntplugin",
